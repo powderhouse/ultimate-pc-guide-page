@@ -1,0 +1,40 @@
+@import url(Fonts/Monofur/monofur.css);
+@import url(Fonts/IntelOneMono/intelonemono.css);
+
+body {
+    background-color: black;
+    color: white;
+
+    /*
+    og black: #121416
+    white was cornsilk
+    */
+
+    font-family: "Intel One Mono";
+}
+
+.toplevel {
+    width: 80ch;
+    margin: auto;
+
+    /*
+    padding: 5px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: cornsilk;
+    border-radius: 15px;
+    */
+}
+
+.header_div {
+    width: inherit;
+    text-align: center;
+}
+
+p {
+    width: inherit;
+}
+
+a {
+    color: lightskyblue;
+}

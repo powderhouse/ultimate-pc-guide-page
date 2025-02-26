@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Monofur Nerd";
+    src: url(MonofurNerdFont-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Monofur Nerd";
+    src: url(MonofurNerdFont-Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Monofur Nerd";
+    src: url(MonofurNerdFont-Italic.ttf);
+    font-weight: normal;
+    font-style: italic;
+}
