@@ -1,16 +1,15 @@
-@import url(Fonts/Monofur/monofur.css);
-@import url(Fonts/IntelOneMono/intelonemono.css);
+@import url(Fonts/Cantarell/Cantarell.css);
 
 body {
-    background-color: black;
-    color: white;
+    background-color: #fff7ef;
+    color: #3a3334;
 
     /*
     og black: #121416
     white was cornsilk
     */
 
-    font-family: "Intel One Mono";
+    font-family: "Cantarell";
 }
 
 .toplevel {
@@ -36,6 +35,6 @@ p {
 }
 
 a {
-    color: lightskyblue;
+    color: #0a75d9;
     text-decoration: none;
 }
